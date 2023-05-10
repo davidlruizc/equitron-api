@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Core/Core.csproj": {}
+  },
+  "projects": {
+    "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Core/Core.csproj",
+        "packagesPath": "/Users/davidruiz/.nuget/packages/",
+        "outputPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davidruiz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/equitron-api.csproj": {
+                "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/equitron-api.csproj"
+              },
+              "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj": {
+                "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/equitron-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/equitron-api.csproj",
+        "projectName": "equitron-api",
+        "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/equitron-api.csproj",
+        "packagesPath": "/Users/davidruiz/.nuget/packages/",
+        "outputPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davidruiz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj": {
+                "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj",
+        "projectName": "Utilities",
+        "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj",
+        "packagesPath": "/Users/davidruiz/.nuget/packages/",
+        "outputPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davidruiz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -944,26 +944,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\David\\.nuget\\packages\\": {}
+    "/Users/davidruiz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Utilities\\Utilities.csproj",
+      "projectUniqueName": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj",
       "projectName": "Utilities",
-      "projectPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Utilities\\Utilities.csproj",
-      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Utilities\\obj\\",
+      "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj",
+      "packagesPath": "/Users/davidruiz/.nuget/packages/",
+      "outputPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/davidruiz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1007,7 +1005,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

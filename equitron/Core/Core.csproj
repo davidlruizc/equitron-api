@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Users\" />
+    <None Remove="Users\App\" />
+    <None Remove="Users\Domain\" />
+    <None Remove="Users\Domain\Model\" />
+    <None Remove="Users\Domain\Services\" />
+    <None Remove="Users\App\DTO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Users\" />
+    <Folder Include="Users\App\" />
+    <Folder Include="Users\Domain\" />
+    <Folder Include="Users\Domain\Model\" />
+    <Folder Include="Users\Domain\Services\" />
+    <Folder Include="Users\App\DTO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Utilities\Utilities.csproj" />
+    <ProjectReference Include="..\equitron-api\equitron-api.csproj" />
+  </ItemGroup>
+</Project>
