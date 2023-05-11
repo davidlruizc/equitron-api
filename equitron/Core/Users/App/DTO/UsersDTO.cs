@@ -11,7 +11,7 @@
 			Token = Token;
 		}
 
-		public UsersDTO Of(Domain.Model.Users model)
+		public static UsersDTO Of(Domain.Model.Users model)
 		{
 			return new UsersDTO(model.Name, model.Token);
 		}
