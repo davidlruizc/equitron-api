@@ -5,7 +5,7 @@
 		public Guid Id { get; set; }
 		public DateTime Creation { get; set; }
 
-		public void BaseEntity()
+		public void InitializeBase()
 		{
             Id = Guid.NewGuid();
             Creation = DateTime.Now;
