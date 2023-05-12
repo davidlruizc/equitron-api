@@ -16,6 +16,13 @@ namespace Core.Users.App
 		{
 			return repository.GetUsers().Select(UsersDTO.Of).ToList();
 		}
+
+		public UsersDTO CreateUser(UsersDTO dto)
+		{
+			var model = dto.ToModel();
+			repository.Save(model);
+			return UsersDTO.Of(model);
+		}
 	}
 }
 
