@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Utilities.Domain;
+﻿using Utilities.Domain;
 
 namespace Core.Preferences.Domain.Model
 {
