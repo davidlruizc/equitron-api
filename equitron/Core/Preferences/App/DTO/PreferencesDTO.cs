@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Core.Preferences.Domain.ReadModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +20,19 @@ namespace Core.Preferences.App.DTO
             UserId = userId;
         }
 
-        public PreferencesDTO Of(Domain.Model.Preferences model)
+        public static PreferencesDTO Of(Domain.Model.Preferences model)
         {
             return new PreferencesDTO(model.Id, model.Symbol, model.UserId);
+        }
+
+        public static PreferencesDTO Of(PreferencesReadModel model)
+        {
+            return new PreferencesDTO(model.Id, model.Symbol, model.UserId);
+        }
+
+        public Domain.Model.Preferences ToModel()
+        {
+            return Domain.Model.Preferences.Of(Id, Symbol, UserId);
         }
     }
 }
