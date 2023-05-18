@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/equitron/.vs/Base.Gateway
+/equitron/Base.Gateway/obj
+/equitron/Base.Gateway/bin/Debug/net6.0
+/equitron/bin/Debug
+/equitron/obj
+/equitron/.vs/ProjectEvaluation
