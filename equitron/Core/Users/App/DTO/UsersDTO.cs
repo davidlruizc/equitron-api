@@ -13,6 +13,7 @@
 			Token = token;
 		}
 
+
 		public static UsersDTO Of(Domain.Model.Users model)
 		{
 			return new UsersDTO(model.Id, model.Name, model.Token);

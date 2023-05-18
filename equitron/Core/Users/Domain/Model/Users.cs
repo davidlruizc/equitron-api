@@ -14,7 +14,12 @@ namespace Core.Users.Domain.Model
             Token = token;
         }
 
-		public static Users Of(Guid id, string Name, string Token)
+        internal void Initialize()
+        {
+            InitializeBase();
+        }
+
+        public static Users Of(Guid id, string Name, string Token)
 		{
 			return new Users(id, Name, Token);
 		}
