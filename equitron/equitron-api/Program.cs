@@ -16,6 +16,9 @@ namespace equitron_api
 
             builder.Services.AddEntityFrameworkServices(builder.Configuration);
 
+            builder.Services.AddUsersServices();
+            builder.Services.AddPreferencesServices();
+
             var app = builder.Build();
 
             app.MapGet("/", () => "Hello World!");
