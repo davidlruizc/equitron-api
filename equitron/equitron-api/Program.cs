@@ -1,3 +1,4 @@
+using equitron_api.Extensions;
 using equitron_api.Filters;
 
 namespace equitron_api
@@ -12,6 +13,8 @@ namespace equitron_api
 
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddEntityFrameworkServices(builder.Configuration);
 
             var app = builder.Build();
 

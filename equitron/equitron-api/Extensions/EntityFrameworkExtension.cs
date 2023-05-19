@@ -7,7 +7,7 @@ namespace equitron_api.Extensions
 {
     public static class EntityFrameworkExtension
     {
-        public static void AddEntityFramework(this IServiceCollection services, IConfiguration configuration)
+        public static void AddEntityFrameworkServices(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<EquitronContext>(c =>
             {
