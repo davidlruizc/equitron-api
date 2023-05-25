@@ -14,6 +14,8 @@ namespace Infrastructure.EntityFramework.Configurations
 
             builder.Property(p => p.Name).IsRequired();
 
+            builder.Property(p => p.Email).IsRequired();
+
             builder.Property(p => p.Token).IsRequired();
 
             builder.Property(p => p.Creation).IsRequired();

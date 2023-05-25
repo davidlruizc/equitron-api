@@ -22,6 +22,7 @@ namespace Core.Preferences.App
             var model = dto.ToModel();
             model.Initialize();
             repository.Save(model);
+            repository.CommitChanges();
             return PreferencesDTO.Of(model);
         }
     }
