@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ir96b/WoBazcmU6GWCdFmKUVZswkLjIqKFxzMHJYArP7H9hW0rKFisQ8R32aJ0bj8vEdx1n0ZhloLLWCyxk3ww==",
+  "dgSpecHash": "n5HH92eRzKCpuSzXZ/C4b2gshqK7YEpLs6K1ioH0G+xcdmdfgk9lHgUWPyCC6SYyJHQ0ri8P/1wxAbrsXT4Yyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Core\\Core.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,6 @@
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\David\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
