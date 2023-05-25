@@ -22,6 +22,7 @@ namespace Core.Users.App
 			var model = dto.ToModel();
 			model.Initialize();
 			repository.Save(model);
+			repository.CommitChanges();
 			return UsersDTO.Of(model);
 		}
 		

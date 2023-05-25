@@ -8,7 +8,7 @@
 		public void InitializeBase()
 		{
             Id = Guid.NewGuid();
-            Creation = DateTime.Now;
+            Creation = DateTime.Now.ToUniversalTime();
         }
 	}
 }
