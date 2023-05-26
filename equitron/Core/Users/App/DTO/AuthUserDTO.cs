@@ -20,7 +20,8 @@ namespace Core.Users.App.DTO
         {
             var userInformation = repository.GetUserByEmail(Email);
             Security.VerifyPassword(Password, userInformation.Token);
-            return Domain.Model.Users.Of(userInformation.Id, userInformation.Name, userInformation.Email, userInformation.Token);
+            var jwtToken = JwtSecurity.CreateToken(userInformation.Id, userInformation.Name, userInformation.Email);
+            return Domain.Model.Users.Of(userInformation.Id, userInformation.Name, userInformation.Email, jwtToken);
         }
     }
 }
