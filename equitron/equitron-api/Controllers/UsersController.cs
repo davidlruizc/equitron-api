@@ -1,5 +1,6 @@
 ﻿using Core.Users.App;
 using Core.Users.App.DTO;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace equitron_api.Controllers
@@ -15,7 +16,7 @@ namespace equitron_api.Controllers
             this.service = service;
         }
 
-        [HttpGet("get-all")]
+        [HttpGet("get-all"), Authorize]
         public IEnumerable<UsersDTO> GetAll()
         {
             return service.GetUsers();
@@ -28,9 +29,15 @@ namespace equitron_api.Controllers
         }
 
         [HttpPost("create-user")]
-        public UsersDTO CreateUser(UsersDTO dto)
+        public UsersDTO CreateUser(CreateUserDTO dto)
         {
             return service.CreateUser(dto);
+        }
+
+        [HttpPost("auth-user")]
+        public UsersDTO AuthUser(AuthUserDTO dto)
+        {
+            return service.AuthUser(dto);
         }
     }
 }

@@ -120,3 +120,12 @@ C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\
 C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.pdb
 C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.genruntimeconfig.cache
 C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\ref\equitron-api.dll
+C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
