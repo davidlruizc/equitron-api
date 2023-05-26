@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rfa+OSStCw55kW2ziDjd46z1vhIf4m5DhA77TgS7KiXDyOpe2a7Uq3LtRzUl0V9LC4UQfz82fPRZuo2xW96QCg==",
+  "dgSpecHash": "HwOTU7qf9m3itkRSS+0tlmfgUHtmXvesAOH7KlxZ0u2/OONWE3FFGEnPzl+eI6GaJh+yPe0lFY/+xjc2fI/FtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\equitron-api\\equitron-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.5\\microsoft.aspnetcore.authentication.jwtbearer.7.0.5.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
@@ -28,6 +29,8 @@
     "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.30.1\\microsoft.identitymodel.abstractions.6.30.1.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.30.1\\microsoft.identitymodel.jsonwebtokens.6.30.1.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.logging\\6.30.1\\microsoft.identitymodel.logging.6.30.1.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.30.1\\microsoft.identitymodel.tokens.6.30.1.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
