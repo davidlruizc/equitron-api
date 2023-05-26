@@ -28,9 +28,15 @@ namespace equitron_api.Controllers
         }
 
         [HttpPost("create-user")]
-        public UsersDTO CreateUser(UsersDTO dto)
+        public UsersDTO CreateUser(CreateUserDTO dto)
         {
             return service.CreateUser(dto);
+        }
+
+        [HttpPost("auth-user")]
+        public UsersDTO AuthUser(AuthUserDTO dto)
+        {
+            return service.AuthUser(dto);
         }
     }
 }

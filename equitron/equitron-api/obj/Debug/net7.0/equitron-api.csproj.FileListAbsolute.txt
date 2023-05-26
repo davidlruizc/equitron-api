@@ -120,3 +120,4 @@ C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\
 C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.pdb
 C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.genruntimeconfig.cache
 C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\ref\equitron-api.dll
+C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\BCrypt.Net-Next.dll

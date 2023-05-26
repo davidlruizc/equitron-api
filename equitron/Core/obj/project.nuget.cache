@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "n5HH92eRzKCpuSzXZ/C4b2gshqK7YEpLs6K1ioH0G+xcdmdfgk9lHgUWPyCC6SYyJHQ0ri8P/1wxAbrsXT4Yyg==",
+  "dgSpecHash": "P2A+B9DbQHJwuZYrzsHyuDxxl3qL7JR9cs5Wm8UaHUsNShfNdMCCoPBz4BA5JYpL9nxz727PSL+KuOK0MQ20Xg==",
   "success": true,
   "projectFilePath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",

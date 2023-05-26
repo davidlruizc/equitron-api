@@ -17,7 +17,7 @@ namespace Core.Users.App
 			return repository.GetUsers().Select(UsersDTO.Of).ToList();
 		}
 
-		public UsersDTO CreateUser(UsersDTO dto)
+		public UsersDTO CreateUser(CreateUserDTO dto)
 		{
 			var model = dto.ToModel();
 			model.Initialize();
@@ -29,6 +29,17 @@ namespace Core.Users.App
 		public UsersDTO GetUser(Guid id)
 		{
 			return UsersDTO.Of(repository.GetUser(id));
+		}
+
+		public UsersDTO GetUserByEmail(string email)
+		{
+			return UsersDTO.Of(repository.GetUserByEmail(email));
+		}
+
+		public UsersDTO AuthUser(AuthUserDTO dto)
+		{
+			var model = dto.ToModel(repository);
+			return UsersDTO.Of(model);
 		}
 	}
 }

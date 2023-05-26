@@ -15,12 +15,9 @@
     <None Remove="Users\App\DTO\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Users\" />
-    <Folder Include="Users\App\" />
     <Folder Include="Users\Domain\" />
     <Folder Include="Users\Domain\Model\" />
     <Folder Include="Users\Domain\Services\" />
-    <Folder Include="Users\App\DTO\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Utilities\Utilities.csproj" />

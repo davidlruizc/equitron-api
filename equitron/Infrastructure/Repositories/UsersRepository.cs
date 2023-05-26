@@ -1,11 +1,6 @@
 ﻿using Core.Users.Domain.Model;
 using Core.Users.Domain.Services;
 using Infrastructure.EntityFramework;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Utilities.Exceptions;
 using Utilities.Repository;
 
@@ -25,6 +20,11 @@ namespace Infrastructure.Repositories
         public Users GetUser(Guid id)
         {
             return dbContext.Users.Where(u => u.Id == id).FirstOrDefault() ?? throw new CustomException("User not found");
+        }
+
+        public Users GetUserByEmail(string email)
+        {
+            return dbContext.Users.Where(u => u.Email == email).FirstOrDefault() ?? throw new CustomException("User not found");
         }
     }
 }
