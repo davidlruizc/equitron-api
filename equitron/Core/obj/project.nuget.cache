@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "J02slv65QbQJhJO3jZUbWrCuOcgCQUVR9V/50nCrxWlmj6c6RwsFwrxL9j5f355EKT7qOojgSKjmYGy/GYJnoA==",
+  "dgSpecHash": "ngYR9CNcQSWU02LqarRFEIBQvgaFzMaBcXoLH8QvN7wLO/y18r1xt3rh4ehc9FS3VF+N8mymV1NJxu0ju8Lr4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Core\\Core.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",

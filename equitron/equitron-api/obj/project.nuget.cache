@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HwOTU7qf9m3itkRSS+0tlmfgUHtmXvesAOH7KlxZ0u2/OONWE3FFGEnPzl+eI6GaJh+yPe0lFY/+xjc2fI/FtQ==",
+  "dgSpecHash": "oZYQ2PtOqgND6YdzJBIb+f6EsGRvmde87BAja0fR6EWKR/qXN/h1fqOP1vcThSVvDybb3SCqO5eK0V6OPZ6uqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\equitron-api\\equitron-api.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
