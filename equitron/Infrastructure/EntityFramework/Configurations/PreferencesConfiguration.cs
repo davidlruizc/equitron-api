@@ -17,7 +17,9 @@ namespace Infrastructure.EntityFramework.Configurations
 
             builder.Property(p => p.Creation).IsRequired();
 
-            builder.HasOne<Users>().WithMany().HasForeignKey(p => p.UserId);
+            builder.Property(p => p.UserId).IsRequired();
+
+            builder.HasOne<Users>().WithOne().HasForeignKey<Preferences>(p => p.UserId);
         }
     }
 }
