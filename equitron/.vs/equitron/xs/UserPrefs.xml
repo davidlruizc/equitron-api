@@ -1,17 +1,49 @@
 ﻿<Properties StartupConfiguration="{7501D157-7A93-49C6-97B0-02FC7B71809D}|https">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Core FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.equitron-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/SavedNews/Domain/Model/SavedNews.cs">
+    <Files>
+      <File FileName="Core/SavedNews/Domain/Model/SavedNews.cs" Line="14" Column="1" />
+      <File FileName="Core/Country/Domain/Model/Country.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/EntityFramework/Configurations/SavedNewsConfiguration.cs" Line="16" Column="51" />
+      <File FileName="Infrastructure/EntityFramework/Configurations/PreferencesConfiguration.cs" Line="26" Column="1" />
+      <File FileName="Infrastructure/EntityFramework/Configurations/UsersConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/EntityFramework/Configurations/CountryConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/EntityFramework/Configurations/IndustryConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/EntityFramework/Configurations/ExchangeConfiguration.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="equitron" expanded="True" />
+          <Node name="equitron" expanded="True">
+            <Node name="Core">
+              <Node name="Country" expanded="True">
+                <Node name="Domain" expanded="True">
+                  <Node name="Model" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="SavedNews" expanded="True">
+                <Node name="Domain">
+                  <Node name="Model">
+                    <Node name="SavedNews.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Infrastructure">
+              <Node name="EntityFramework" expanded="True">
+                <Node name="Configurations" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.equitron-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Core FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

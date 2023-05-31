@@ -13,11 +13,23 @@
     <None Remove="Users\Domain\Model\" />
     <None Remove="Users\Domain\Services\" />
     <None Remove="Users\App\DTO\" />
+    <None Remove="Country\" />
+    <None Remove="Country\Domain\" />
+    <None Remove="Country\Domain\Model\" />
+    <None Remove="SavedNews\" />
+    <None Remove="SavedNews\Domain\" />
+    <None Remove="SavedNews\Domain\Model\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Users\Domain\" />
     <Folder Include="Users\Domain\Model\" />
     <Folder Include="Users\Domain\Services\" />
+    <Folder Include="Country\" />
+    <Folder Include="Country\Domain\" />
+    <Folder Include="Country\Domain\Model\" />
+    <Folder Include="SavedNews\" />
+    <Folder Include="SavedNews\Domain\" />
+    <Folder Include="SavedNews\Domain\Model\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Utilities\Utilities.csproj" />
