@@ -51,8 +51,20 @@ namespace Core.Users.App
 				model.Initialize();
 				repository.Save(model);
 			}
+			foreach(var countryId in dto.UserCountries)
+			{
+				var model = UserCountry.Of(dto.UserId, countryId);
+                model.Initialize();
+                repository.Save(model);
+            }
+			foreach (var industryId in dto.UserIndustries)
+			{
+				var model = UserIndustry.Of(dto.UserId, industryId);
+                model.Initialize();
+                repository.Save(model);
+            }
 			repository.CommitChanges();
-			return CreateUserPreferenceDTO.Of(dto.UserId, dto.UserExchanges);
+			return CreateUserPreferenceDTO.Of(dto.UserId, dto.UserExchanges, dto.UserCountries, dto.UserIndustries);
 		}
     }
 }

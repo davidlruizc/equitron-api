@@ -1,5 +1,4 @@
-﻿using System;
-using Utilities.Domain;
+﻿using Utilities.Domain;
 
 namespace Core.Users.Domain.Model
 {
