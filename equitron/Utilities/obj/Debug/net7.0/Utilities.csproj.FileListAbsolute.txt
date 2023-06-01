@@ -22,15 +22,3 @@ C:/Users/David/Development/Side Projects/equitron-api/equitron/Utilities/obj/Deb
 /Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/obj/Debug/net7.0/refint/Utilities.dll
 /Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/obj/Debug/net7.0/Utilities.pdb
 /Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/obj/Debug/net7.0/ref/Utilities.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\bin\Debug\net7.0\Utilities.deps.json
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\bin\Debug\net7.0\Utilities.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\bin\Debug\net7.0\Utilities.pdb
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\obj\Debug\net7.0\Utilities.csproj.AssemblyReference.cache
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\obj\Debug\net7.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfoInputs.cache
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfo.cs
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\obj\Debug\net7.0\Utilities.csproj.CoreCompileInputs.cache
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\obj\Debug\net7.0\Utilities.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\obj\Debug\net7.0\refint\Utilities.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\obj\Debug\net7.0\Utilities.pdb
-C:\Users\David\Development\Side Projects\equitron-api\equitron\Utilities\obj\Debug\net7.0\ref\Utilities.dll

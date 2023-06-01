@@ -70,62 +70,49 @@ C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/obj/
 /Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/obj/Debug/net7.0/equitron-api.pdb
 /Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/obj/Debug/net7.0/equitron-api.genruntimeconfig.cache
 /Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/obj/Debug/net7.0/ref/equitron-api.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\appsettings.json
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\equitron-api.exe
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\equitron-api.deps.json
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\equitron-api.runtimeconfig.json
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\equitron-api.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\equitron-api.pdb
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Humanizer.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Npgsql.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Core.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Infrastructure.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Utilities.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Infrastructure.pdb
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Core.pdb
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Utilities.pdb
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.csproj.AssemblyReference.cache
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.AssemblyInfoInputs.cache
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.AssemblyInfo.cs
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.csproj.CoreCompileInputs.cache
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\staticwebassets\msbuild.equitron-api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\staticwebassets\msbuild.build.equitron-api.props
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.equitron-api.props
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.equitron-api.props
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\scopedcss\bundle\equitron-api.styles.css
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.csproj.CopyComplete
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\refint\equitron-api.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.pdb
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\equitron-api.genruntimeconfig.cache
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\obj\Debug\net7.0\ref\equitron-api.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\BCrypt.Net-Next.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\David\Development\Side Projects\equitron-api\equitron\equitron-api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Humanizer.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Npgsql.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Core.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Core.pdb
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/BCrypt.Net-Next.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/David/Development/Side Projects/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Humanizer.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Npgsql.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Core.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Infrastructure.dll
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Infrastructure.pdb
+/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/bin/Debug/net7.0/Core.pdb
