@@ -8,7 +8,7 @@ namespace Infrastructure.EntityFramework.Configurations
     {
         public void Configure(EntityTypeBuilder<Users> builder)
         {
-            builder.ToTable("users");
+            builder.ToTable("Users");
 
             builder.HasKey(u => u.Id);
 

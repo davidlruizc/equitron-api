@@ -13,7 +13,7 @@ namespace Infrastructure.EntityFramework.Configurations
     {
         public void Configure(EntityTypeBuilder<Exchange> builder)
         {
-            builder.ToTable("exchange");
+            builder.ToTable("Exchange");
             builder.HasKey(e => e.Id);
             builder.Property(e => e.UniqueId).IsRequired();
             builder.Property(e => e.Name).IsRequired();

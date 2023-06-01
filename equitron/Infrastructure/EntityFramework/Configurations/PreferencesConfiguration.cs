@@ -9,7 +9,7 @@ namespace Infrastructure.EntityFramework.Configurations
     {
         public void Configure(EntityTypeBuilder<Preferences> builder)
         {
-            builder.ToTable("preferences");
+            builder.ToTable("Preferences");
 
             builder.HasKey(p => p.Id);
 

@@ -13,7 +13,7 @@ namespace Infrastructure.EntityFramework.Configurations
     {
         public void Configure(EntityTypeBuilder<Industry> builder)
         {
-            builder.ToTable("industry");
+            builder.ToTable("Industry");
             builder.HasKey(e => e.Id);
             builder.Property(e => e.Type).IsRequired();
             builder.Property(e => e.Creation).IsRequired();

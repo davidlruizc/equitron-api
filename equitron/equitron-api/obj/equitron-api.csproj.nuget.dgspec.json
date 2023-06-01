@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/equitron-api.csproj": {}
+    "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\equitron-api\\equitron-api.csproj": {}
   },
   "projects": {
-    "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Core/Core.csproj": {
+    "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Core/Core.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Core/Core.csproj",
-        "packagesPath": "/Users/davidruiz/.nuget/packages/",
-        "outputPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Core/obj/",
+        "projectPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/davidruiz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj": {
-                "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj"
+              "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -57,34 +59,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/equitron-api.csproj": {
+    "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\equitron-api\\equitron-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/equitron-api.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\equitron-api\\equitron-api.csproj",
         "projectName": "equitron-api",
-        "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/equitron-api.csproj",
-        "packagesPath": "/Users/davidruiz/.nuget/packages/",
-        "outputPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/equitron-api/obj/",
+        "projectPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\equitron-api\\equitron-api.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\equitron-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/davidruiz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Infrastructure/Infrastructure.csproj"
+              "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -141,34 +146,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Infrastructure/Infrastructure.csproj": {
+    "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Infrastructure/Infrastructure.csproj",
-        "packagesPath": "/Users/davidruiz/.nuget/packages/",
-        "outputPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Infrastructure/obj/",
+        "projectPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/davidruiz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Core/Core.csproj": {
-                "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Core/Core.csproj"
+              "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Core\\Core.csproj"
               }
             }
           }
@@ -218,26 +225,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj": {
+    "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/Utilities.csproj",
-        "packagesPath": "/Users/davidruiz/.nuget/packages/",
-        "outputPath": "/Users/davidruiz/Work/Projects/GitHub/equitron-api/equitron/Utilities/obj/",
+        "projectPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Utilities\\Utilities.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\Development\\Side Projects\\equitron-api\\equitron\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/davidruiz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -297,7 +306,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,15 +6,16 @@ namespace Core.Preferences.Domain.Model
     {
         public Guid UserId { get; set; }
         public IList<Exchange.Domain.Model.Exchange> Exchanges { get; set; }
-        public IList<Country.Domain.Model.Country> Country { get; set; }
-        public IList<Industry.Domain.Model.Industry> Industry { get; set; }
-        public string Symbol { get; set; }
+        public IList<Country.Domain.Model.Country> Countries { get; set; }
+        public IList<Industry.Domain.Model.Industry> Industries { get; set; }
 
-        private Preferences(Guid id,  string symbol, Guid userId)
+        private Preferences(Guid id, Guid userId, IList<Exchange.Domain.Model.Exchange> exchanges, IList<Country.Domain.Model.Country> countries, IList<Industry.Domain.Model.Industry> industries)
         {
             Id = id;
-            Symbol = symbol;
             UserId = userId;
+            Exchanges = exchanges;
+            Countries = countries;
+            Industries = industries;
         }
 
         internal void Initialize()
@@ -22,9 +23,9 @@ namespace Core.Preferences.Domain.Model
             InitializeBase();
         }
 
-        public static Preferences Of(Guid id, string symbol, Guid userId)
+        public static Preferences Of(Guid id, Guid userId, IList<Exchange.Domain.Model.Exchange> exchanges, IList<Country.Domain.Model.Country> countries, IList<Industry.Domain.Model.Industry> industries)
         {
-            return new Preferences(id, symbol, userId);
+            return new Preferences(id, userId, exchanges, countries, industries);
         }
     }
 }

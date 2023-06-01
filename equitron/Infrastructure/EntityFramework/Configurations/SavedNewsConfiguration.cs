@@ -8,7 +8,7 @@ namespace Infrastructure.EntityFramework.Configurations
     {
 		public void Configure(EntityTypeBuilder<SavedNews> builder)
 		{
-			builder.ToTable("saved");
+			builder.ToTable("SavedNews");
 			builder.HasKey(p => p.Id);
 			builder.Property(p => p.UserId).IsRequired();
 			builder.Property(p => p.NewsId).IsRequired();
