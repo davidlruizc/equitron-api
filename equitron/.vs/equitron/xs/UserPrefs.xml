@@ -4,38 +4,24 @@
   <MonoDevelop.Ide.ItemProperties.Core FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.equitron-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Core/SavedNews/Domain/Model/SavedNews.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/Preferences/Domain/Model/Preferences.cs">
     <Files>
-      <File FileName="Core/SavedNews/Domain/Model/SavedNews.cs" Line="14" Column="1" />
-      <File FileName="Core/Country/Domain/Model/Country.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/EntityFramework/Configurations/SavedNewsConfiguration.cs" Line="16" Column="51" />
-      <File FileName="Infrastructure/EntityFramework/Configurations/PreferencesConfiguration.cs" Line="26" Column="1" />
-      <File FileName="Infrastructure/EntityFramework/Configurations/UsersConfiguration.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/EntityFramework/Configurations/CountryConfiguration.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/EntityFramework/Configurations/IndustryConfiguration.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/EntityFramework/Configurations/ExchangeConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Core/Preferences/App/PreferencesService.cs" Line="1" Column="1" />
+      <File FileName="Core/Preferences/Domain/Model/Preferences.cs" Line="16" Column="29" />
+      <File FileName="Core/Exchange/Domain/Model/Exchange.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="equitron" expanded="True">
+          <Node name="equitron">
             <Node name="Core">
-              <Node name="Country" expanded="True">
-                <Node name="Domain" expanded="True">
-                  <Node name="Model" expanded="True" />
-                </Node>
-              </Node>
-              <Node name="SavedNews" expanded="True">
+              <Node name="Preferences">
+                <Node name="App" expanded="True" />
                 <Node name="Domain">
                   <Node name="Model">
-                    <Node name="SavedNews.cs" selected="True" />
+                    <Node name="Preferences.cs" selected="True" />
                   </Node>
                 </Node>
-              </Node>
-            </Node>
-            <Node name="Infrastructure">
-              <Node name="EntityFramework" expanded="True">
-                <Node name="Configurations" expanded="True" />
               </Node>
             </Node>
           </Node>

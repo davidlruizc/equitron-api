@@ -1,5 +1,4 @@
-﻿using System;
-using Utilities.Domain;
+﻿using Utilities.Domain;
 
 namespace Core.SavedNews.Domain.Model
 {
@@ -10,4 +9,3 @@ namespace Core.SavedNews.Domain.Model
 		public string Title { get; set; }
 	}
 }
-
