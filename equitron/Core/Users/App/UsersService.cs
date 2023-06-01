@@ -1,4 +1,5 @@
 ﻿using Core.Users.App.DTO;
+using Core.Users.Domain.Model;
 using Core.Users.Domain.Services;
 
 namespace Core.Users.App
@@ -41,6 +42,18 @@ namespace Core.Users.App
 			var model = dto.ToModel(repository);
 			return UsersDTO.Of(model);
 		}
-	}
+
+		public CreateUserPreferenceDTO CreateUserPreferences(CreateUserPreferenceDTO dto)
+		{
+			foreach(var exchangeId in dto.UserExchanges)
+			{
+				var model = UserExchange.Of(dto.UserId, exchangeId);
+				model.Initialize();
+				repository.Save(model);
+			}
+			repository.CommitChanges();
+			return CreateUserPreferenceDTO.Of(dto.UserId, dto.UserExchanges);
+		}
+    }
 }
 
