@@ -14,6 +14,9 @@ namespace Infrastructure.EntityFramework
         public DbSet<Exchange> Exchange { get; set; }
         public DbSet<Industry> Industry { get; set; }
         public DbSet<SavedNews> SavedNews { get; set; }
+        public DbSet<UserCountry> UserCountry { get; set; }
+        public DbSet<UserExchange> UserExchange { get; set; }
+        public DbSet<UserIndustry> UserIndustry { get; set; }
 
         public EquitronContext() { }
 
@@ -27,6 +30,8 @@ namespace Infrastructure.EntityFramework
             modelBuilder.ApplyConfiguration(new Configurations.IndustryConfiguration());
             modelBuilder.ApplyConfiguration(new Configurations.SavedNewsConfiguration());
             modelBuilder.ApplyConfiguration(new Configurations.UserExchangeConfiguration());
+            modelBuilder.ApplyConfiguration(new Configurations.UserCountryConfiguration());
+            modelBuilder.ApplyConfiguration(new Configurations.UserIndustryConfiguration());
 
             base.OnModelCreating(modelBuilder);
         }
